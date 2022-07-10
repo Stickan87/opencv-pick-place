@@ -1,7 +1,6 @@
 # opencv-pick-place
 python code for simple pick and place robot using opencv and grbl
 
- ################################################################################
 Python interpreters used: Numpy v.1.22.1
                           opencv-python	4.5.5.62
                           pyserial	3.5
