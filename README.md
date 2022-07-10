@@ -18,7 +18,7 @@ useArduino == true starts the connection with the arduino/serialport. You need t
 s = serial.Serial('COM3', 115200)
 to the proper COM port.
 
-send function is copy/pasted from another github file for sending gcode from a txtfile with GRBL.
+send function is copy/pasted from another github file for sending gcode from a txtfile with GRBL and Python.
 
 Main part of the streaming code is in takepicture()
 Code exits if there is no camera/webcam plugged in in any COM / USB
